@@ -1,6 +1,4 @@
-import Button from 'react-bootstrap/Button';
-import Form from 'react-bootstrap/Form';
-<link href="\form.css" rel="stylesheet"></link>
+import { Button, Form } from "react-bootstrap";
 
 
 function BasicExample() {
